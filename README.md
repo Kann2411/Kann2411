@@ -4,7 +4,7 @@
 💻 **Desarrollador FullStack**
 
 ### Sobre mí:
-- 🎧 Amo la música electrónica y programar.
+- 🎧 Amo la música y programar.
 - 🛠️ Actualmente, trabajo con **NestJS**, **React**, **TailwindCSS**, **TypeORM**.
 - 📚 Estoy aprendiendo sobre **Astro** y **SQL**.
 - 🌐 Puedes ver mi portafolio aquí: [MiPortafolio](coming soon...)
