@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Kristian Kamilo Ferrin
 
-<!--
-**Kann2411/Kann2411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎶 **DJ y productor musical**  
+💻 **Desarrollador FullStack**
 
-Here are some ideas to get you started:
+### Sobre mí:
+- 🎧 Amo la música electrónica y programar.
+- 🛠️ Actualmente, trabajo con **NestJS**, **React**, **TailwindCSS**, **TypeORM**.
+- 📚 Estoy aprendiendo sobre **Astro** y **SQL**.
+- 🌐 Puedes ver mi portafolio aquí: [MiPortafolio](coming soon...)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Conéctate conmigo:
+- [LinkedIn](www.linkedin.com/in/kristian-ferrin-583976270)
+- [Instagram](https://www.instagram.com/el.k.a.n.n/?hl=es)
+
+### Tecnologías que uso:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
