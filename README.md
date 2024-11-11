@@ -7,7 +7,7 @@
 - 🎧 Amo la música y programar.
 - 🛠️ Actualmente, trabajo con **NestJS**, **React**, **TailwindCSS**, **TypeORM**.
 - 📚 Estoy aprendiendo sobre **Astro** y **SQL**.
-- 🌐 Puedes ver mi portafolio aquí: [MiPortafolio](coming soon...)
+- 🌐 Puedes ver mi portafolio aquí: (coming soon...)
 
 ### Conéctate conmigo:
 - [LinkedIn](www.linkedin.com/in/kristian-ferrin-583976270)
