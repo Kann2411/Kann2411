@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Kristian Kamilo Ferrin
+![Header](https://res.cloudinary.com/dgg9abj0i/image/upload/v1732368849/nelr0qsz8fqzcd6oo8th.gif)
 
 🎶 **DJ y productor musical**  
 💻 **Desarrollador FullStack**
