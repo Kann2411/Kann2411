@@ -6,7 +6,7 @@
     <em>Desarrollador full stack especializado en Node.js, JavaScript y TypeScript, apasionado por crear arquitecturas escalables y de alto rendimiento. Con experiencia en la implementación de soluciones óptimas y seguras utilizando NestJS, y en la gestión de bases de datos tanto relacionales como no relacionales, siempre dispuesto a enfrentar cualquier desafío.</em>
 </h3>
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Kann2411.Kann2411)
+<!-- ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Kann2411.Kann2411) -->
 
 <p>
 
